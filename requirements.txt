@@ -1,0 +1,4 @@
+tkinter
+geopy
+astral
+pytz

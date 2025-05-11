@@ -23,7 +23,7 @@ Aggiorna/Installa: Se necessario, utilizza il gestore di pacchetti della tua dis
 Verifica l'installazione: Apri un terminale e digita <code>python3 --version</code>. Dovresti vedere la versione di Python installata. <br /> <br /> <br />
 
 ## Avvio script
-Per avviare lo scrip apri il terminale ed entra nella cartella dove hai salvato lo script usando il comando <code>cd nomecartella</code> e poi digita:<br />
+Per avviare lo script apri il terminale ed entra nella cartella dove lo hai salvato usando il comando <code>cd nomecartella</code> e poi digita:<br />
 ### Windows
 <code> python app.py </code>
 
